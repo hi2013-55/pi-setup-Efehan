@@ -1,10 +1,11 @@
-# pi-setup-Efehan
-Raspberry Pi'ı iPad için taşınabilir hotspot ve ekran ünitesine dönüştürür.
-Teknik Detaylar:
-1. Hotspot Adı: Efehan raspberry pi 4b 8gb
-2. Hotspot Şifresi: Efehan
-3. Sabit IP: 192.168.12.1
-Kurulum:
- ⁠git clone https://github.com/hi2013-55/pi-setup-Efehan.git⁠
- ⁠cd pi-setup-Efehan⁠
- ⁠sudo bash setup.sh⁠
+Efehan Pi 4B Hotspot & Internet Paylaşımı 📶
+Bu proje, Raspberry Pi 4B cihazını hem bir Wi-Fi alıcısı (Client) hem de bir Hotspot (Erişim Noktası) olarak kullanmanı sağlayan pratik bir kurulum rehberidir.
+Özellikler
+￼ 🌐 Hotspot: Cihazın "Efehan Raspberry Pi 4B 8Gb" adında kendi ağını yayar.
+￼ ⚡ İnternet Paylaşımı: Dış ağdan aldığın interneti otomatik olarak Hotspot üzerinden iPad'ine dağıtır.
+￼ 💾 Sabit IP: IP adresi ⁠10.42.0.1⁠ olarak sabitlendi, bağlantılar artık çok daha stabil.
+Kurulum
+Nasıl Kullanılır?
+￼ Hotspot: Cihaz açıldığında otomatik olarak devreye girer.
+￼ Dış Wi-Fi'ye Bağlanma: İnterneti değiştirmek istersen, masaüstündeki ağ simgesine tıklayıp istediğin ağa bağlanman yeterli; Pi interneti otomatik olarak paylaşmaya devam eder.
+Başarılı bir kurulum için orijinal 5V 3A güç adaptörü kullanmanı öneririm. (eminim) 
