@@ -11,3 +11,4 @@ Nasıl Kullanılır?
 ￼ Hotspot: Cihaz açıldığında otomatik olarak devreye girer.
 ￼ Dış Wi-Fi'ye Bağlanma: İnterneti değiştirmek istersen, masaüstündeki ağ simgesine tıklayıp istediğin ağa bağlanman yeterli; Pi interneti otomatik olarak paylaşmaya devam eder.
 Başarılı bir kurulum için orijinal 5V 3A güç adaptörü kullanmanı öneririm.
+❗️   ❗️= aradaki kodu terminle yaz:)
